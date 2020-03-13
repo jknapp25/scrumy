@@ -1,0 +1,48 @@
+$myColor: red;
+
+h1 {
+  color: $myColor;
+}
+
+.card-header.bg-primary {
+  color: white;
+
+  svg {
+    color: white;
+  }
+}
+.card-header.bg-success {
+  color: white;
+
+  svg {
+    color: white;
+  }
+}
+.card-header.bg-dark {
+  color: white;
+
+  svg {
+    color: white;
+  }
+}
+.card-header.bg-light {
+  color: #6c757d;
+
+  svg {
+    color: #6c757d;
+  }
+}
+.card-header.bg-warning {
+  color: black;
+
+  svg {
+    color: black;
+  }
+}
+.card-header.bg-danger {
+  color: white;
+
+  svg {
+    color: white;
+  }
+}

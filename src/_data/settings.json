@@ -1,0 +1,35 @@
+{
+  "cadence": "week",
+  "startDate": "20191115",
+  "endDate": "20191120",
+  "todos": {
+    "name": "todos",
+    "visible": true,
+    "headerColor": "primary",
+    "title": "To do",
+    "hasCheck": true,
+    "canAdd": true,
+    "isDropDisabled": false,
+    "canChangeVisibility": false
+  },
+  "reminders": {
+    "name": "reminders",
+    "visible": true,
+    "headerColor": "success",
+    "title": "Reminders",
+    "hasCheck": false,
+    "canAdd": true,
+    "isDropDisabled": false,
+    "canChangeVisibility": true
+  },
+  "backlog": {
+    "name": "backlog",
+    "visible": true,
+    "headerColor": "light",
+    "title": "Backlog",
+    "hasCheck": false,
+    "canAdd": true,
+    "isDropDisabled": false,
+    "canChangeVisibility": true
+  }
+}

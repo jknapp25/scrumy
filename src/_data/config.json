@@ -1,0 +1,4 @@
+{
+  "colors": ["primary", "success", "light", "dark", "warning", "danger"],
+  "cadences": ["day", "week", "month"]
+}
