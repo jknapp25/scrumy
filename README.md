@@ -1,3 +1,3 @@
-# MyScrum
+# Scrumy
 
 A personal Scrum tool
